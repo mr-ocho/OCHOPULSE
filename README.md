@@ -1,166 +1,105 @@
-# THE 26 — DOCUMENTATION
+# OCHOPULSE — THE 26 DOCUMENTATION
 
 ## A Connected Universe Saga
 
----
-
-### Welcome
-
-This is the official documentation for THE 26 — a connected universe saga spanning 26 realities. Everything you need to understand, write, or contribute to the saga lives here.
+Welcome to **OCHOPULSE**, the official documentation repository for **THE 26** — a connected universe saga spanning 26 realities. This repository contains everything you need to understand, write, and contribute to the saga.
 
 ---
 
-### Contents
+## 📋 Contents
 
 | Section | Description |
 |---------|-------------|
-| [Lore](lore/) | The deep lore. How everything began. |
-| [Universes](universes/) | All 26 universes. |
-| [Characters](characters/) | All heroes, villains, and watchers. |
-| [Stories](stories/) | All stories organized by universe. |
+| [Lore](#lore) | The deep lore. How everything began. |
+| [Universes](#universes) | All 26 universes and their settings. |
+| [Characters](#characters) | All heroes, villains, and watchers. |
+| [Stories](#stories) | All stories organized by universe. |
 
 ---
 
-## Lore
+## 📚 Lore
 
-The foundation of the saga. Read these first before writing anything.
+The foundation of THE 26 saga. Start here to understand the universe before writing anything.
 
 | File | Description |
 |------|-------------|
-| [The Formation](lore/the-formation.md) | How nothing became something. How Jaxo was born. How the 26 universes fractured. |
-| [Absolute Resonance](lore/absolute-resonance.md) | Jaxo's power explained. Reality Selection. Destiny Collapse. Time Navigation. |
-| [Laws of Jaxo](lore/laws-of-jaxo.md) | The rules that govern Jaxo. Conservation of Energy. Phase Transition. Resonance. Entropy. Quantum Entanglement. |
-| [Multiverse Rules](lore/multiverse-rules.md) | The rules of the 26 universes. How they connect. How travel works. |
+| `lore/the-formation.md` | How nothing became something. How Jaxo was born. How the 26 universes fractured. |
+| `lore/absolute-resonance.md` | Jaxo's power explained. Reality Selection. Destiny Collapse. Time Navigation. |
+| `lore/laws-of-jaxo.md` | The rules that govern Jaxo. Conservation of Energy. Phase Transition. Resonance. Entropy. Quantum Entanglement. |
+| `lore/multiverse-rules.md` | The rules of the 26 universes. How they connect. How travel works. |
 
 ---
 
-## Universes
+## 🌌 Universes
 
-Each universe has its own file. Each contains the setting, heroes, villains, stories, and status.
+Each universe has its own file containing the setting, heroes, villains, stories, and current status.
 
-| Universe | Name | Status |
-|----------|------|--------|
-| [Universe 1](universes/universe-1-the-gilded-cage.md) | The Gilded Cage | Complete |
-| [Universe 2](universes/universe-2.md) | TBA | Planned |
-| [Universe 3](universes/universe-3.md) | TBA | Planned |
-| Universe 4 | TBA | Planned |
-| Universe 5 | TBA | Planned |
-| Universe 6 | TBA | Planned |
-| Universe 7 | TBA | Planned |
-| Universe 8 | TBA | Planned |
-| Universe 9 | TBA | Planned |
-| Universe 10 | TBA | Planned |
-| Universe 11 | TBA | Planned |
-| Universe 12 | TBA | Planned |
-| Universe 13 | TBA | Planned |
-| Universe 14 | TBA | Planned |
-| Universe 15 | TBA | Planned |
-| Universe 16 | TBA | Planned |
-| Universe 17 | TBA | Planned |
-| Universe 18 | TBA | Planned |
-| Universe 19 | TBA | Planned |
-| Universe 20 | TBA | Planned |
-| Universe 21 | TBA | Planned |
-| Universe 22 | TBA | Planned |
-| Universe 23 | TBA | Planned |
-| Universe 24 | TBA | Planned |
-| Universe 25 | TBA | Planned |
-| Universe 26 | TBA | Planned |
-
----
-
-## Characters
-
-Each character has their own file. Each contains their profile, powers, backstory, and connections.
-
-### Watcher
-
-| Character | Title | File |
-|-----------|-------|------|
-| Jaxo | The God of the Multiverse | [jaxo.md](characters/jaxo.md) |
-
-### Heroes
-
-| Character | Title | Universe | File |
-|-----------|-------|----------|------|
-| Vonac | The Mind | Universe 1 | [vonac.md](characters/vonac.md) |
-| Maximus | The Witness | Universe 1 | [maximus.md](characters/maximus.md) |
-| Draven | The End of Gods | Universe 1 | [draven.md](characters/draven.md) |
-| Mira | The Heart | Universe 1 | [mira.md](characters/mira.md) |
-| Kael | The Wildcard | Universe 1 | [kael.md](characters/kael.md) |
-
-### Villains
-
-| Character | Title | Universe | File |
-|-----------|-------|----------|------|
-| Elias Vane | The Mind's Equal | Universe 1 | [elias-vane.md](characters/elias-vane.md) |
-| Elysia | The Time's Blind Spot | Universe 1 | [elysia.md](characters/elysia.md) |
-| Athos | The God Who Cannot Die | Universe 1 | [athos.md](characters/athos.md) |
-| Caine | The Master | Universe 1 | [caine.md](characters/caine.md) |
-
----
-
-## Stories
-
-Each story has its own file. Organized by universe.
+| # | Universe | Name | Status |
+|---|----------|------|--------|
+| 1 | [Universe 1](GLIDDDED%20CAGE/) | The Gilded Cage | Complete |
+| 2-26 | Universe 2-26 | TBA | Planned |
 
 ### Universe 1 — The Gilded Cage
 
-| Story | Title | Focus | File |
-|-------|-------|-------|------|
-| Story 1 | The Mind's Equal | Vonac vs Elias | [the-minds-equal.md](stories/universe-1/the-minds-equal.md) |
-| Story 2 | The Time's Blind Spot | Maximus vs Elysia | [the-times-blind-spot.md](stories/universe-1/the-times-blind-spot.md) |
-| Story 3 | The God Who Cannot Die | Draven vs Athos | [the-god-who-cannot-die.md](stories/universe-1/the-god-who-cannot-die.md) |
-| Story 4 | The Heart | Mira vs Kael | [the-heart.md](stories/universe-1/the-heart.md) |
-| Story 5 | The Master | Kael vs Caine | [the-master.md](stories/universe-1/the-master.md) |
-| Story 6 | The Endgame | All heroes vs all villains | [the-endgame.md](stories/universe-1/the-endgame.md) |
+**Setting:** Hallow Bay, a coastal city split between the wealthy Heights and the poor Lowlands.
 
-### Universe 2 — TBA
+**Era:** 2016-2020 (Modern, connected, watched)
 
-| Story | Title | Focus | File |
-|-------|-------|-------|------|
-| Story 1 | TBA | TBA | TBA |
+**Overview:** The first of the 26 universes where five heroes battle five villains in a city run by corruption. Each hero has their own world within the world.
 
 ---
 
-## How to Contribute
+## 👥 Characters
 
-### For Writers
+### The Watcher
 
-1. Create a new branch: `story/universe-X/story-name`
-2. Add your file in the correct folder
-3. Write your content
-4. Open a Pull Request
-5. Wait for Editor review
+| Character | Title | Role |
+|-----------|-------|------|
+| Jaxo | The God of the Multiverse | Watches from the void. Guides the multiverse. |
 
-### For Editors
+### Heroes (Universe 1 — The Gilded Cage)
 
-1. Review Pull Requests
-2. Check for mistakes
-3. Request changes or approve
-4. Pass to Sender
+| # | Character | Title | World | Role |
+|---|-----------|-------|-------|------|
+| 1 | Vonac | The Mind | The Mind's World | The planner. The strategist. |
+| 2 | Maximus | The Witness | The Witness's World | The watcher. The burdened. |
+| 3 | Draven | The End of Gods | The End's World | The weapon. The inevitable. |
+| 4 | Mira | The Heart | The Heart's World | The moral center. The hope. |
+| 5 | Kael | The Wildcard | The Wildcard's World | The speedster. The broken. |
 
-### For Senders
+### Villains (Universe 1 — The Gilded Cage)
 
-1. Review approved content
-2. Merge the Pull Request
-3. Publish to the site
-
----
-
-## Status
-
-| Section | Status |
-|---------|--------|
-| Lore | Complete |
-| Universe 1 | Complete |
-| Universe 2-26 | Planned |
-| Characters | In Progress |
-| Stories | In Progress |
+| # | Character | Title | Connection | World |
+|---|-----------|-------|------------|-------|
+| 1 | Elias Vane | The Mind's Equal | Vonac's former partner | The Mind's World |
+| 2 | Elysia | The Time's Blind Spot | Maximus's blind spot | The Witness's World |
+| 3 | Athos | The God Who Cannot Die | Draven's equal | The End's World |
+| 4 | Caine | The Master | Kael's former master | The Wildcard's World |
 
 ---
 
-## Power Ranking — Universe 1 (GLIDDED CAGE)
+## 📖 Stories
+
+All stories organized by universe. Each story file contains the narrative, character interactions, and outcomes.
+
+### Universe 1 — The Gilded Cage
+
+| # | Story | Title | Focus |
+|---|-------|-------|-------|
+| 1 | The Mind's Equal | The Mind's Equal | Vonac vs Elias Vane |
+| 2 | The Time's Blind Spot | The Time's Blind Spot | Maximus vs Elysia |
+| 3 | The God Who Cannot Die | The God Who Cannot Die | Draven vs Athos |
+| 4 | The Heart | The Heart | Mira's journey |
+| 5 | The Master | The Master | Kael vs Caine |
+| 6 | The Endgame | The Endgame | All heroes vs all villains |
+
+### Universe 2-26
+
+Coming soon...
+
+---
+
+## ⚡ Power Ranking — Universe 1 (The Gilded Cage)
 
 | Rank | Character | Tier |
 |------|-----------|------|
@@ -177,13 +116,103 @@ Each story has its own file. Organized by universe.
 
 ---
 
-## Links
+## 📁 Repository Structure
 
-- [Main Site](https://the26.base44.app)
-- [GitHub Repository](https://github.com/yourusername/the-26)
+```
+OCHOPULSE/
+├── README.md                          # You are here
+├── CHARACTERS                         # Character database
+├── GLIDDDED CAGE/                     # Universe 1 — The Gilded Cage
+│   ├── README.md
+│   ├── Draven's world/
+│   ├── Kael's world/
+│   ├── Mira's world/
+│   ├── Maximus's world/
+│   └── Vonac's world/
+├── lore/                              # Foundational lore files
+│   ├── the-formation.md
+│   ├── absolute-resonance.md
+│   ├── laws-of-jaxo.md
+│   └── multiverse-rules.md
+├── characters/                        # Individual character profiles
+├── stories/                           # Story narratives
+└── universes/                         # Universe-specific files
+```
 
 ---
 
-## License
+## 🚀 How to Contribute
 
-See [LICENSE](../LICENSE) for details.
+### For Writers
+
+1. Create a new branch: `story/universe-X/story-name`
+2. Add your file in the correct folder
+3. Write your content following the saga's style and lore
+4. Open a Pull Request
+5. Wait for Editor review
+
+### For Editors
+
+1. Review Pull Requests for quality and consistency
+2. Check for plot holes and lore violations
+3. Request changes or approve
+4. Pass to Sender for merging
+
+### For Senders
+
+1. Review approved content
+2. Merge the Pull Request
+3. Update relevant documentation
+4. Publish to the site
+
+---
+
+## 📊 Current Status
+
+| Section | Status |
+|---------|--------|
+| Lore | Complete |
+| Universe 1 | Complete |
+| Universe 2-26 | Planned |
+| Characters | In Progress |
+| Stories | In Progress |
+
+---
+
+## 📖 Getting Started
+
+**New to THE 26?**
+1. Read [The Formation](lore/the-formation.md) to understand the beginning
+2. Read [Laws of Jaxo](lore/laws-of-jaxo.md) to understand the rules
+3. Explore [Universe 1 — The Gilded Cage](GLIDDDED%20CAGE/) and its worlds
+4. Read the stories to see it all in action
+
+**Want to contribute?**
+1. Familiarize yourself with the lore and existing stories
+2. Check out the [How to Contribute](#how-to-contribute) section
+3. Create a branch and start writing!
+
+**Exploring Universe 1?**
+- [The Mind's World (Vonac)](GLIDDDED%20CAGE/Vonac's%20world/)
+- [The Witness's World (Maximus)](GLIDDDED%20CAGE/Maximus's%20world/)
+- [The End's World (Draven)](GLIDDDED%20CAGE/Draven's%20world/)
+- [The Heart's World (Mira)](GLIDDDED%20CAGE/Mira's%20world/)
+- [The Wildcard's World (Kael)](GLIDDDED%20CAGE/Kael's%20world/)
+
+---
+
+## 🔗 Links
+
+- [Main Site](https://the26.base44.app)
+- [GitHub Repository](https://github.com/mr-ocho/OCHOPULSE)
+
+---
+
+## 📜 License
+
+See [LICENSE](LICENSE) for details.
+
+---
+
+**Last Updated:** 2026-09-14  
+**Maintainer:** @mr-ocho
